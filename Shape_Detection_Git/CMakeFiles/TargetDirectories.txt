@@ -1,0 +1,3 @@
+/home/janmart/Documents/OpenCVStuff/Shape_Detection_Git/CMakeFiles/rebuild_cache.dir
+/home/janmart/Documents/OpenCVStuff/Shape_Detection_Git/CMakeFiles/edit_cache.dir
+/home/janmart/Documents/OpenCVStuff/Shape_Detection_Git/CMakeFiles/main.dir
