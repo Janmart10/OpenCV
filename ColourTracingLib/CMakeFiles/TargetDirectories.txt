@@ -1,0 +1,3 @@
+/home/janmart/Documents/OpenCVStuff/ColourTracingLib/CMakeFiles/rebuild_cache.dir
+/home/janmart/Documents/OpenCVStuff/ColourTracingLib/CMakeFiles/edit_cache.dir
+/home/janmart/Documents/OpenCVStuff/ColourTracingLib/CMakeFiles/main.dir
